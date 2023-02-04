@@ -16,7 +16,7 @@ defmodule MyProject.MixProject do
 
   defp deps() do
     [
-      {:phoenix, "== 1.6.12"}
+      {:phoenix, "== 1.6.14"}
     ]
   end
 end
