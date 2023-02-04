@@ -1,0 +1,9 @@
+buildscript {
+    repositories {
+        mavenCentral()
+    }
+
+    dependencies {
+        classpath("com.google.protobuf:protobuf-java:3.11.1")
+    }
+}
